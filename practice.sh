@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "Hello, Everyon!"
+echo "Hello, Everyone!"
 echo "Welcome to Bash Practice"
